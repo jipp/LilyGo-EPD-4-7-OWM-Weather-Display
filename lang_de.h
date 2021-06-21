@@ -33,9 +33,9 @@ const String TXT_SUNSET   = "Sonnenuntergang";
 const String TXT_MOON_NEW             = "Neumond";
 const String TXT_MOON_WAXING_CRESCENT = "Zunehmender Halbmond";
 const String TXT_MOON_FIRST_QUARTER   = "Erstes Viertel";
-const String TXT_MOON_WAXING_GIBBOUS  = "Zunehmender Dreiviertelmond";
+const String TXT_MOON_WAXING_GIBBOUS  = "Zunehmender 3/4 Mond";
 const String TXT_MOON_FULL            = "Vollmond";
-const String TXT_MOON_WANING_GIBBOUS  = "Abnehmender Dreiviertelmond";
+const String TXT_MOON_WANING_GIBBOUS  = "Abnehmender 3/4 Mond";
 const String TXT_MOON_THIRD_QUARTER   = "Drittes Viertel";
 const String TXT_MOON_WANING_CRESCENT = "Abnehmender Halbmond";
 
